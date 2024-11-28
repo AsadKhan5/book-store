@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "6747725406f289d1d977071b",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-help",
+    "description": "Atomic Habits is written by James Clear",
+    "price": 800
+  },
+  {
+    "_id": "6747725406f289d1d977071c",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Self-help",
+    "description": "The Power of Habit is written by Charles Duhigg",
+    "price": 700
+  },
+  {
+    "_id": "6747725406f289d1d977071d",
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "category": "Psychology",
+    "description": "Grit is written by Angela Duckworth",
+    "price": 650
+  },
+  {
+    "_id": "6747725406f289d1d977071e",
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "category": "Psychology",
+    "description": "Mindset is written by Carol S. Dweck",
+    "price": 720
+  },
+  {
+    "_id": "6747725406f289d1d977071f",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": "Self-help",
+    "description": "The 7 Habits of Highly Effective People is written by Stephen R. Covey",
+    "price": 850
+  },
+  {
+    "_id": "6747725406f289d1d9770720",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "description": "Deep Work is written by Cal Newport",
+    "price": 780
+  },
+  {
+    "_id": "6747725406f289d1d9770721",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self-help",
+    "description": "The Subtle Art of Not Giving a F*ck is written by Mark Manson",
+    "price": 690
+  },
+  {
+    "_id": "6747725406f289d1d9770722",
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "category": "Business",
+    "description": "Start with Why is written by Simon Sinek",
+    "price": 740
+  },
+  {
+    "_id": "6747725406f289d1d9770723",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "description": "The Lean Startup is written by Eric Ries",
+    "price": 800
+  },
+  {
+    "_id": "6747725406f289d1d9770724",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Psychology",
+    "description": "Thinking, Fast and Slow is written by Daniel Kahneman",
+    "price": 900
+  },
+  {
+    "_id": "6747725406f289d1d9770725",
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "category": "Spirituality",
+    "description": "The Four Agreements is written by Don Miguel Ruiz",
+    "price": 650
+  },
+  {
+    "_id": "6747725406f289d1d9770726",
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "category": "Self-help",
+    "description": "Daring Greatly is written by Brené Brown",
+    "price": 780
+  },
+  {
+    "_id": "6747725406f289d1d9770727",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "description": "The Alchemist is written by Paulo Coelho",
+    "price": 600
+  },
+  {
+    "_id": "6747725406f289d1d9770728",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": "Psychology",
+    "description": "Man's Search for Meaning is written by Viktor E. Frankl",
+    "price": 700
+  },
+  {
+    "_id": "6747725406f289d1d9770729",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "description": "Sapiens is written by Yuval Noah Harari",
+    "price": 950
+  },
+  {
+    "_id": "6747725406f289d1d9770730",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "description": "Educated is written by Tara Westover",
+    "price": 800
+  },
+  {
+    "_id": "6747725406f289d1d9770731",
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "Memoir",
+    "description": "Becoming is written by Michelle Obama",
+    "price": 850
+  },
+  {
+    "_id": "6747725406f289d1d9770732",
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Spirituality",
+    "description": "The Power of Now is written by Eckhart Tolle",
+    "price": 720
+  },
+  {
+    "_id": "6747725406f289d1d9770733",
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": "Self-help",
+    "description": "How to Win Friends and Influence People is written by Dale Carnegie",
+    "price": 680
+  },
+  {
+    "_id": "6747725406f289d1d9770734",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "Finance",
+    "description": "Rich Dad Poor Dad is written by Robert T. Kiyosaki",
+    "price": 750
+  }
+]
